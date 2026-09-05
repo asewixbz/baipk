@@ -1,0 +1,382 @@
+{
+  "success": true,
+  "count": 47,
+  "models": [
+    {
+      "id": "minimax-m3",
+      "owner": "minimax",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "minimax-m2.7",
+      "owner": "minimax",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "glm-5.1",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "glm-5.2",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.6-sol",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.6-terra",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.6-luna",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.5",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.5-instant",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.4",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.2",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.4-pro",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5-mini",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5.4-nano",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gpt-5-nano",
+      "owner": "azure",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-fable-5.1",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-fable-5",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-opus-5",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-opus-4.8",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-opus-4.7",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-opus-4.6",
+      "owner": "mixai",
+      "endpoints": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "id": "claude-opus-4.5",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "claude-sonnet-5",
+      "owner": "mixai",
+      "endpoints": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "id": "claude-sonnet-4.6",
+      "owner": "mixai",
+      "endpoints": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "id": "claude-sonnet-4.5",
+      "owner": "claude",
+      "endpoints": [
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "id": "claude-haiku-4.5",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gemini-3.1-pro",
+      "owner": "vertex-ai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gemini-3-flash",
+      "owner": "vertex-ai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gemini-3.5-flash-lite",
+      "owner": "vertex-ai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gemini-3.6-flash",
+      "owner": "vertex-ai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "hy3",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "glm-5.3-flash",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "kimi-k2.6",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "glm-5.3",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "hy4-preview",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "kimi-k3",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "qwen3.8-flash",
+      "owner": "ali",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "qwen3.8-max",
+      "owner": "ali",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "deepseek-v4-flash",
+      "owner": "unknown",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "mimo-v2.5",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "deepseek-v4-flash-vision-exp",
+      "owner": "deepseek",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gemini-3.8-flash",
+      "owner": "vertex-ai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "deepseek-v4-pro",
+      "owner": "deepseek",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "gemini-3.5-flash",
+      "owner": "vertex-ai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "qwen3.8-27b",
+      "owner": "bttinfergrid",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "mimo-v2.5-pro",
+      "owner": "mixai",
+      "endpoints": [
+        "openai",
+        "anthropic"
+      ]
+    }
+  ]
+}
